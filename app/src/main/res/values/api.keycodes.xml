@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_keycodes_name">Keycodes</string>
+    <string-array name="api_keycodes">
+        <item>- r или 22</item>
+        <item>KEY_RIGHT</item>
+        <item>- l или 21</item>
+        <item>KEY_LEFT</item>
+        <item>- u или 19</item>
+        <item>KEY_UP</item>
+        <item>- d или 20</item>
+        <item>KEY_DOWN</item>
+        <item>- t или 61</item>
+        <item>KEY_TAB</item>
+        <item>- e или 66</item>
+        <item>KEY_ENTER</item>
+        <item>- m или 82</item>
+        <item>KEY_MENU</item>
+        <item>- g [Предназначено для ввода gmail почты]</item>
+        <item>KEY_GMAIL</item>
+        <item>- p [Предназначено для ввода пароля]</item>
+        <item>KEY_PASSWORD</item>
+        <item>- ? [Положительное число (https://source.android.com/devices/input/keyboard-devices)]</item>
+        <item>" "</item>
+    </string-array>
+</resources>

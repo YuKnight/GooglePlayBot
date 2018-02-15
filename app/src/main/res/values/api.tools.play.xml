@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_tools_play_name">Play tools</string>
+    <string-array name="api_tools_play">
+
+        <item>login</item>
+        <item>p1 p2</item>
+        <item>Google Sing In</item>
+        <item>Войти в аккаунт Google. p1 - Gmail почтовый ящик; p2 - пароль</item>
+
+        <item>logout</item>
+        <item></item>
+        <item>Sing Out</item>
+        <item>Выйти из всех аккаунтов</item>
+
+        <item>install</item>
+        <item>p1</item>
+        <item>Install Application</item>
+        <item>Установить приложение. p1 - имя пакета приложения</item>
+
+        <item>uninstall</item>
+        <item>p1</item>
+        <item>Uninstall Application</item>
+        <item>Удалить приложение. p1 - имя пакета приложения</item>
+
+    </string-array>
+</resources>

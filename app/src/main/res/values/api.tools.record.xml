@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_tools_record_name">Record tools</string>
+    <string-array name="api_tools_record">
+
+        <item>insert</item>
+        <item>p1 p2</item>
+        <item>Insert Keycode</item>
+        <item>Добавить код в запись. p1 - номер записи; p2 - номер или сокращение кода</item>
+
+        <item>press</item>
+        <item>p1 [ p2 ]</item>
+        <item>Press Keycode</item>
+        <item>Воспроизвести код. p1 - номер или сокращение кода; p2 - Gmail почту или пароль (в случае кодов g или p соответственно)</item>
+
+        <item>delete</item>
+        <item>p1</item>
+        <item>Delete Keycode</item>
+        <item>Удалить последний код в записи. p1 - номер записи</item>
+
+        <item>record</item>
+        <item>p1</item>
+        <item>Print Record</item>
+        <item>Показать запись. p1 - номер записи</item>
+
+        <item>clear</item>
+        <item>p1</item>
+        <item>Clear Record</item>
+        <item>Очистить запись. p1 - номер записи</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_modes_name">Modes</string>
+    <string-array name="api_modes">
+        <item>- 1</item>
+        <item>MODE_DEBUG</item>
+        <item>- 2</item>
+        <item>MODE_RELEASE</item>
+    </string-array>
+</resources>

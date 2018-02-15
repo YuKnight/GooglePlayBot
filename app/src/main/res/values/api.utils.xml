@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_utils_name">Utils</string>
+    <string-array name="api_utils">
+
+        <item>help</item>
+        <item></item>
+        <item>Print Help</item>
+        <item>Показать справку</item>
+
+    </string-array>
+</resources>

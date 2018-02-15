@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GooglePlayBot</string>
+
+    <string name="activity_main_title">Консоль</string>
+
+    <string name="menu_controller">Переключатель</string>
+
+    <string name="command_sign">~$</string>
+    <string name="command_enter">Введите команду или наберите \"help\" для вызова справки</string>
+
+    <string name="message_on_crash">Please, send report</string>
+</resources>

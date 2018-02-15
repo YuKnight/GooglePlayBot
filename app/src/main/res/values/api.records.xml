@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_records_name">Records</string>
+    <string-array name="api_records">
+        <item>- 1</item>
+        <item>GOOGLE_PLAY_INSTALLATION</item>
+        <item>- 2</item>
+        <item>GOOGLE_ACCOUNT_SIGN_IN</item>
+        <item>- ? (число > 2)</item>
+        <item>CUSTOM</item>
+    </string-array>
+</resources>

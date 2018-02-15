@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_tools_device_name">Device tools</string>
+    <string-array name="api_tools_device">
+
+        <item>setName</item>
+        <item>p1</item>
+        <item>Set Device Name</item>
+        <item>Задать имя устройства. p1 - имя устройства</item>
+
+        <item>name</item>
+        <item></item>
+        <item>Print Device Name</item>
+        <item>Показать имя устройства</item>
+
+        <item>setMode</item>
+        <item>p1</item>
+        <item>Set Device Mode</item>
+        <item>Задать режим устройства. p1 - номер режима</item>
+
+        <item>mode</item>
+        <item></item>
+        <item>Print Device Mode</item>
+        <item>Показать режим устройства</item>
+
+        <item>setToken</item>
+        <item>p1</item>
+        <item>Set Telegram Bot token</item>
+        <item>Задать токен Telegram бота. p1 - токен бота</item>
+
+        <item>token</item>
+        <item></item>
+        <item>Print Telegram Bot token</item>
+        <item>Показать токен Telegram бота</item>
+
+    </string-array>
+</resources>
