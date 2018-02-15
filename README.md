@@ -6,6 +6,10 @@ Article https://habrahabr.ru/post/338934/
 
 All pull requests are welcome.
 
+## Requirements
+
+Root rights on device
+
 ## Binaries
 [Download apk here](https://github.com/androidovshchik/CheatASO/releases)
 
