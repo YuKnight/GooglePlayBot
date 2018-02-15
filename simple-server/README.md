@@ -1,4 +1,4 @@
-# GooglePlayBot-server
+# Simple server side
 
 ## Getting started
 
