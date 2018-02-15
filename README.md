@@ -1,4 +1,4 @@
-# CheatASO (GooglePlayBot)
+# GooglePlayBot
 
 Prototype for android app store optimization by growing downloads. It's not fully functional for today
 
