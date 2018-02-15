@@ -2,15 +2,15 @@
 
 Prototype for android app store optimization by growing downloads. It's not fully functional for today
 
+Article https://habrahabr.ru/post/338934/
+
+All pull requests are welcome.
+
 ## Features
 
 * Telegram bot support
 * Saved keycodes to database for playing later
 * Some others
-
-Article https://habrahabr.ru/post/338934/
-
-All pull requests are welcome.
 
 ## Requirements
 
