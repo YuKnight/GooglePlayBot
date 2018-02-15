@@ -1,19 +1,17 @@
 # CheatASO (GooglePlayBot)
 
-Prototype for android app store optimization by growing downloads.
+Prototype for android app store optimization by growing downloads. It's not fully functional for today
 
 Article https://habrahabr.ru/post/338934/
 
 All pull requests are welcome.
-
-## Features
 
 ## Binaries
 [Download apk here](https://github.com/androidovshchik/CheatASO/releases)
 
 ## Screenshots
 
-<img src="art/Screenshot_20180215-082506.png" width="50%"/>
+<img src="art/Screenshot_20180215-082506.png" width="70%"/>
 
 ## License
 
