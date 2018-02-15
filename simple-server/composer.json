@@ -1,0 +1,6 @@
+{
+    "name": "GooglePlayBot-server",
+    "require": {
+        "catfan/Medoo": "^1.4"
+    }
+}

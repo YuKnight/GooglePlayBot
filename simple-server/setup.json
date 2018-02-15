@@ -1,0 +1,8 @@
+{
+	"database_type": "mysql",
+	"database_name": "akalyuz_play_bot",
+	"server": "localhost",
+	"username": "akalyuz_play_bot",
+	"password": "M18Y*XTr",
+	"charset": "utf8"
+}
