@@ -9,7 +9,7 @@ All pull requests are welcome.
 ## Features
 
 * Telegram bot support
-* Saved keycodes to database for playing later
+* Saving keycodes to database for playing later
 * Some others
 
 ## Requirements
