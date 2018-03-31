@@ -1,5 +1,11 @@
 # GooglePlayBot
 
+<p>
+  <a href="https://www.paypal.me/mrcpp" title="Donate to this project using Paypal">
+    <img src="https://img.shields.io/badge/paypal-donate-green.svg" alt="PayPal donate button" height="18"/>
+  </a>
+</p>
+
 Prototype for android app store optimization by growing downloads. It's not fully functional for today
 
 Article https://habrahabr.ru/post/338934/
