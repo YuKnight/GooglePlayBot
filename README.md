@@ -15,14 +15,19 @@ All pull requests are welcome.
 ## Features
 
 * Telegram bot support
-* Saving keycodes to database for playing later
-* Some others
+* Server API support
+* Saving keycodes to SQLite database
+* Emulating keycodes on screen
+* Other interesting features
+
+[Simple server implementation](https://github.com/androidovshchik/GooglePlayBot/tree/master/simple-server) is also available
 
 ## Requirements
 
 Root rights on device
 
 ## Binaries
+
 [Download apk here](https://github.com/androidovshchik/CheatASO/releases)
 
 ## Screenshots
