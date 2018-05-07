@@ -6,7 +6,7 @@
   </a>
 </p>
 
-Prototype for android app store optimization by growing downloads. It's not fully functional for today
+Android prototype for app store optimization by growing downloads. It's not fully functional for today
 
 Article https://habrahabr.ru/post/338934/
 
